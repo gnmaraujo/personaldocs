@@ -8,7 +8,7 @@ powershell -command "git config --global user.password EntradaGH6600**"
 
 powershell -command "git add ."
 powershell -command "git commit -m 'ATUALIZANDO'"
-powershell -command "git push --set-upstream https://github.com/gnmaraujo/personaldocs.git master"
+powershell -command "git push --set-upstream https://gnmaraujo.github.io/personaldocs/ master"
 
 
 echo ----------Atualizacao concluida----------------------------
