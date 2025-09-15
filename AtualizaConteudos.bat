@@ -8,7 +8,7 @@ powershell -command "git config --global user.password EntradaGH6600**"
 
 powershell -command "git add ."
 powershell -command "git commit -m 'ATUALIZANDO'"
-powershell -command "git push"
+powershell -command "git push D:\Public Docs\PersonalDocs\"
 
 
 echo ----------Atualizacao concluida----------------------------
